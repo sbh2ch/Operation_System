@@ -11,7 +11,7 @@
 1. [운영체제의 정의와 역할](https://github.com/sbh2ch/Operation_System_study/tree/master/1.%20%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C%EC%9D%98%20%EC%A0%95%EC%9D%98%EC%99%80%20%EC%97%AD%ED%95%A0)
 2. [운영체제의 구조](https://github.com/sbh2ch/Operation_System_study/tree/master/2.%20%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C%EC%9D%98%20%EA%B5%AC%EC%A1%B0)
 3. [운영체제의 기본 동작](https://github.com/sbh2ch/Operation_System_study/tree/master/3.%20%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C%EC%9D%98%20%EA%B8%B0%EB%B3%B8%20%EB%8F%99%EC%9E%91)
-4. [시스템호출과 라이브러리]()
+4. [시스템호출과 라이브러리](https://github.com/sbh2ch/Operation_System_study/tree/master/4.%20%EC%8B%9C%EC%8A%A4%ED%85%9C%20%ED%98%B8%EC%B6%9C%EA%B3%BC%20%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC)
 5. 파일 시스템 개요
 6. 파일 연산
 7. 파일 연산 API
