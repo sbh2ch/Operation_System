@@ -11,29 +11,26 @@
 1. [운영체제의 정의와 역할](https://github.com/sbh2ch/Operation_System_study/tree/master/1.%20%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C%EC%9D%98%20%EC%A0%95%EC%9D%98%EC%99%80%20%EC%97%AD%ED%95%A0)
 2. [운영체제의 구조](https://github.com/sbh2ch/Operation_System_study/tree/master/2.%20%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C%EC%9D%98%20%EA%B5%AC%EC%A1%B0)
 3. [운영체제의 기본 동작](https://github.com/sbh2ch/Operation_System_study/tree/master/3.%20%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C%EC%9D%98%20%EA%B8%B0%EB%B3%B8%20%EB%8F%99%EC%9E%91)
-4. [시스템호출과 라이브러리]()
-5. 파일 시스템 개요
-6. 파일 연산
-7. 파일 연산 API
-8. 디렉터리 구조
-9. 디렉터리 연산 API
-10. 프로세스의 개념과 상태
-11. 프로세스의 제어
-12. 프로세스 제어 API
-13. 프로세스 스케줄링
-14. 스케줄링 알고리즘
-15. 프로세스 간 통신
-16. 스레드의 개념과 멀티 스레딩 모델
-17. 스레드 라이브러리
-18. 프로세스 동기화의 개념
-19. 동기화 문제의 해결책
-20. 동기화가 필요한 문제들
-21. 모니터 동기화
-22. 데드락의 정의
-23. 데드락의 처리 방법
-24. 메모리의 기본 구조와 동작
-25. 메모리 관리 기법 (스와핑, 연속 메모리 할당)
-26. 메모리 관리 기법 (페이징, 세그멘테이션)
-27. 가상 메모리의 개념과 요구 페이징
-28. 페이지 교체
-29. 쓰레싱과 메모리 사상 파일
+4. [시스템호출과 라이브러리](https://github.com/sbh2ch/Operation_System_study/tree/master/4.%20%EC%8B%9C%EC%8A%A4%ED%85%9C%20%ED%98%B8%EC%B6%9C%EA%B3%BC%20%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC)
+5. [파일 시스템 개요](https://github.com/sbh2ch/Operation_System_study/tree/master/5.%20%ED%8C%8C%EC%9D%BC%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EA%B0%9C%EC%9A%94)
+6. [파일 연산](https://github.com/sbh2ch/Operation_System_study/tree/master/6.%20%ED%8C%8C%EC%9D%BC%20%EC%97%B0%EC%82%B0)
+7. [디렉터리 구조](https://github.com/sbh2ch/Operation_System_study/tree/master/7.%20%EB%94%94%EB%A0%89%ED%86%A0%EB%A6%AC%20%EA%B5%AC%EC%A1%B0)
+8. [프로세스의 개념과 상태]()
+9. 프로세스의 제어
+10. 프로세스 스케줄링
+11. 스케줄링 알고리즘
+12. 프로세스 간 통신
+13. 스레드의 개념과 멀티 스레딩 모델
+14. 스레드 라이브러리
+15. 프로세스 동기화의 개념
+16. 동기화 문제의 해결책
+17. 동기화가 필요한 문제들
+18. 모니터 동기화
+19. 데드락의 정의
+20. 데드락의 처리 방법
+21. 메모리의 기본 구조와 동작
+22. 메모리 관리 기법 (스와핑, 연속 메모리 할당)
+23. 메모리 관리 기법 (페이징, 세그멘테이션)
+24. 가상 메모리의 개념과 요구 페이징
+25. 페이지 교체
+26. 쓰레싱과 메모리 사상 파일
