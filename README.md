@@ -18,19 +18,3 @@
 8. [프로세스의 개념과 상태](https://github.com/sbh2ch/Operation_System_study/tree/master/8.%20%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EC%9D%98%20%EA%B0%9C%EB%85%90%EA%B3%BC%20%EC%83%81%ED%83%9C)
 9. [프로세스의 제어](https://github.com/sbh2ch/Operation_System/tree/master/9.%20%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EC%9D%98%20%EC%A0%9C%EC%96%B4)
 10. [프로세스 스케줄링](https://github.com/sbh2ch/Operation_System/tree/master/10.%20%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%20%EC%8A%A4%EC%BC%80%EC%A4%84%EB%A7%81)
-11. 스케줄링 알고리즘
-12. 프로세스 간 통신
-13. 스레드의 개념과 멀티 스레딩 모델
-14. 스레드 라이브러리
-15. 프로세스 동기화의 개념
-16. 동기화 문제의 해결책
-17. 동기화가 필요한 문제들
-18. 모니터 동기화
-19. 데드락의 정의
-20. 데드락의 처리 방법
-21. 메모리의 기본 구조와 동작
-22. 메모리 관리 기법 (스와핑, 연속 메모리 할당)
-23. 메모리 관리 기법 (페이징, 세그멘테이션)
-24. 가상 메모리의 개념과 요구 페이징
-25. 페이지 교체
-26. 쓰레싱과 메모리 사상 파일.
